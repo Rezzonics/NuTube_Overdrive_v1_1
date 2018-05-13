@@ -10,8 +10,7 @@ Eagle CAD 6.3.0:
 FreeCAD 16.0:
  - 3D CAD NuTube Overdrive enclosure
  
- Some guitar pedal test videos can be found here:
-https://www.youtube.com/watch?v=pDtBdqI9vC8&list=PLVcOAdxtwYCBdqzgB6T4JSNhljZ__4p3t
+A <a href="https://www.youtube.com/watch?v=pDtBdqI9vC8&list=PLVcOAdxtwYCBdqzgB6T4JSNhljZ__4p3t">guitar pedal test video Youtube playlist<a>
 
 # Disclaimer:
 This is just an amateur pedal with no intention for profit or to infringe any trademark.
