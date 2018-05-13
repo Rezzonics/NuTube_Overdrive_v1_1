@@ -1,9 +1,5 @@
 # NuTube_Overdrive_v1_1 (EAGLE 6.3.0)
 NuTube Overdrive guitar pedal
-# Disclaimer:
-This is just an amateur pedal with no intention for profit or to infringe any trademark.
-Tube Screamer is a trademark of Hoshino Gakki Co.
-This pedal is not for sale. If you want to buy a similar pedal I recommend you <a href="http://www.ibanez.com/products/u_effect_page18.php?year=2018&amp;area_id=&amp;cat_id=6&amp;series_id=153&amp;effect_id=39">Ibanez NTS Screamer<a>
 
 Eagle CAD 6.3.0:
 - Eagle CAD Schematics (.sch)
@@ -13,3 +9,8 @@ Eagle CAD 6.3.0:
 
 FreeCAD 16.0:
  - 3D CAD NuTube Screamer enclosure
+
+# Disclaimer:
+This is just an amateur pedal with no intention for profit or to infringe any trademark.
+Tube Screamer is a trademark of Hoshino Gakki Co.
+This pedal is not for sale. If you want to buy a similar pedal I recommend you <a href="http://www.ibanez.com/products/u_effect_page18.php?year=2018&amp;area_id=&amp;cat_id=6&amp;series_id=153&amp;effect_id=39">Ibanez NTS Screamer<a>
