@@ -8,7 +8,7 @@ Eagle CAD 6.3.0:
 - Components library (.lbr)
 
 FreeCAD 16.0:
- - 3D CAD NuTube Screamer enclosure
+ - 3D CAD NuTube Overdrive enclosure
 
 # Disclaimer:
 This is just an amateur pedal with no intention for profit or to infringe any trademark.
